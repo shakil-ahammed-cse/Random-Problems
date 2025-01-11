@@ -5,7 +5,8 @@ Structures and Algorithms (DSA) and honing my problem-solving skills. <br>
 📂 Structure <br>
 - Each folder represents a specific topic or problem set. <br>
 - Solutions are named descriptively for easy navigation. <br>
-🎯 Goals <br>
+
+🎯 Goals  <br>
 - Practice Java coding daily. <br>
 - Improve problem-solving skills for competitive programming and technical interviews. <br>
 - Deepen my understanding of core **DSA concepts**. <br>
