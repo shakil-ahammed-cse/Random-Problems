@@ -1,6 +1,6 @@
 🛠️ Java Practice Solutions <br>
 This private repository is dedicated to my daily practice of solving coding problems using Java. It serves as a personal log of my progress in mastering Data
-Structures and Algorithms (DSA) and honing my problem-solving skills. <br>  <br>
+Structures and Algorithms (DSA) and honing my problem-solving skills. <br>
 
 📂 Structure <br>
 - Each folder represents a specific topic or problem set. <br>
