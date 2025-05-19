@@ -18,23 +18,23 @@ Each solution is self-contained and clearly commented for easy understanding.
 
 ## 📁 Folder Structure
 
+```bash
 .
 ├── Basics/
-│ ├── HelloWorld.java
-│ ├── IfElseExample.java
-│ └── ...
+│   ├── HelloWorld.java
+│   ├── IfElseExample.java
+│   └── ...
 ├── OOP/
-│ ├── InheritanceDemo.java
-│ └── PolymorphismExample.java
+│   ├── InheritanceDemo.java
+│   └── PolymorphismExample.java
 ├── Arrays/
-│ ├── MaxElement.java
-│ └── ReverseArray.java
+│   ├── MaxElement.java
+│   └── ReverseArray.java
 ├── Strings/
-│ └── PalindromeCheck.java
+│   └── PalindromeCheck.java
 └── README.md
 
-
----
+```
 
 ## 🚀 How to Use
 
